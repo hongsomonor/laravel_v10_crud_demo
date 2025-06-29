@@ -9,6 +9,8 @@
 
 # How to clone my project
 
+- clone project
+
     ```bash
         git clone https://github.com/hongsomonor/laravel_v10_crud_demo.git
         cd laravel_v10_crud_demo
