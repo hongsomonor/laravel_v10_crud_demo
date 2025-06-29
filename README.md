@@ -7,3 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+# How to clone my project
+
+    ```bash
+        git clone https://github.com/hongsomonor/laravel_v10_crud_demo.git
+        cd laravel_v10_crud_demo
+        npm install
+        code .
+    ```
+don't forget to config your .env file and then run projects
+    ```bash
+        npm run dev
+        php artisan serve
+    ```
