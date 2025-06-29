@@ -15,7 +15,7 @@
         npm install
         code .
     ```
-don't forget to config your .env file and then run projects
+- don't forget to config your .env file and then run projects
 
     ```bash
         npm run dev
